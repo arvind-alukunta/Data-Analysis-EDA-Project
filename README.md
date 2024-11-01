@@ -1,4 +1,4 @@
-# Data-Analysis--Exploratory-Data-Analysis project
+# End to End Analysis Project: Exploratory Data Analysis with Python     
 # Goal : Improved Customer Experiences by Analyzing Previous Sales Data, Increase Revenue
 The data is fecthed from kaggle website.
 # Technlogies used
