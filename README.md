@@ -17,5 +17,5 @@ step 4: Data Visualization by charts, bars,
 
 step 5: outcome/to get most accuarte model
 
-Conclusion:
+
 Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
